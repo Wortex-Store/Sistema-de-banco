@@ -1,6 +1,6 @@
 # Sistema de radinho
 
-⭕ [Aqui](https://github.com/Wortex-Store/Radinho-System/wiki/Radinho) você pode consultar todas as informações sobre o sistema de radinho.
+⭕ [Aqui](https://github.com/Wortex-Store/Sistema-de-prisao/wiki/Sistema-de-prisao) você pode consultar todas as informações sobre o sistema de prisão.
 
 📲 **Contatos:**
 
